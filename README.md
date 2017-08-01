@@ -7,6 +7,10 @@ About
 
 **[Latest Release](../../releases/latest)**
 
+## Usage
+
+Dont forget to setup the event handlers FilterStringChanged & SortStringChanged to link the BindingSource to the DataGridView.  If you dont do this you wont see your filters in the grid! 
+
 ## Requirements
 
 * Microsoft Windows with .NET framework 4 or more
